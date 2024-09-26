@@ -1,0 +1,5 @@
+#!/data1/lsl/wly/YOLO/yolov5-master_2/.conda/bin/python3.11
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()
